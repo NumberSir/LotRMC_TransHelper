@@ -5,9 +5,9 @@ Lord of the Rings Minecraft TransHelper
 ***
 ![maven](https://img.shields.io/badge/python-3.9%2B-blue)
 
-本脚本用于简单检测两个不同版本的 我的世界魔戒模组：复兴版 的语言文件有何改动
+本脚本用于简单检测两个不同版本的 我的世界魔戒模组：复兴版 的语言文件有何改动(目前仅限 Windows 平台使用)
 
-This program is used to tell the difference between 2 versions of the language files of LotRMC-Renewed mods
+This program is used to tell the difference between 2 versions of the language files of LotRMC-Renewed mods (Windows Only)
 ## 声明
 此项目仅用于学习交流，请勿用于非法用途
 

@@ -16,7 +16,7 @@ This program is used to tell the difference between 2 versions of the language f
 
 ## 用法
  - 将两个不同版本的复兴版魔戒模组与本文件放到同一目录下
- - 运行本脚本：**`LotRTransHelper.py`**
+ - 运行本脚本：**`LotRTransHelper.py`** (或 **`LotRTransHelper.exe`**)
  - 在控制台输出结果
 
 
@@ -32,7 +32,7 @@ This program is used to tell the difference between 2 versions of the language f
 
 ## How to use
  - Put **`2`** different versions jar files of LotRMC-Renewed mod into the directory of this program
- - Run this program: **`LotRTransHelper.py`**
+ - Run this program: **`LotRTransHelper.py`** (or **`LotRTransHelper.exe`**)
  - Output result to console
 
 
